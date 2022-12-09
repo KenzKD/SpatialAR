@@ -8,7 +8,7 @@ The buttons aren't really functional. They were intended to allow the user to ch
 
 You can view it in action on YouTube : [Unity AR Image Tracker App for Spatial](https://youtube.com/shorts/u-iyjJnrjdU?feature=share)
 
-ScreenShots
+# ScreenShots
 
 ## Image Tracking and UI
 <p align="center">
@@ -18,6 +18,11 @@ ScreenShots
 ## Dissolve
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65004578/206789123-f31480df-6822-4010-95a1-f5cc28b17ec5.png" width=25% height=25%>
+</p>
+
+## Shader Graph
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65004578/206794108-63ed906d-0103-4171-94ec-05bc59cc6fd2.png" width=75% height=75%>
 </p>
 
 ## Change Angle
